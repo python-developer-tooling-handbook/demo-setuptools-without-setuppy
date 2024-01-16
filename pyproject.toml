@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "demo-package"
+name = "setuptools-with-pyproject"
 version = "0.1"
 description = "This is a demo package"
 readme = "README.md"
