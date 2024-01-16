@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "setuptools-with-pyproject"
-version = "0.1"
+rersion = "0.2"
 description = "This is a demo package"
 readme = "README.md"
 requires-python = ">=3.8"
