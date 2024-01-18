@@ -3,6 +3,8 @@ This package is an example project for building a Python package (i.e. wheel or 
 
 ## Commands:
 
+Note: setuptools doesn't manage your virtual environment. You'll need to create and activate one yourself (e.g. with [venv](https://docs.python.org/3/library/venv.html)).
+
 * Editable install:
 ```shell
 # requires pip >= 21.3
